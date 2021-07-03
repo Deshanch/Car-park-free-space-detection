@@ -9,7 +9,7 @@
  
 ## Introduction
 
-This is a mini project done by me, when I'm doing self studies about the image processing with openCV. 
+This is a mini project done by me, when I'm doing self studies about the image processing with openCV and google colaboratory. 
 From this project I was able to build a system which is able to detect the free spaces of a parking area. This system can also be developed and applied to any of motion tracking system also. This is not a IoT project, I just get the videos of a parking slot from Youtube. But this can be applied to a parking area with modifications and it will increase the efficiecy.
 
 ## Theories
